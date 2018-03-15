@@ -1,0 +1,90 @@
+.common_bg
+{
+    background: #9FC5F8;
+    margin-top: 15px;
+}
+h3{
+    color: red;
+}
+
+.header_height
+{
+    min-height: 100px;
+}
+
+.item_one
+{
+    background: #CFE2FB;
+}
+
+.item_two
+{
+    background:#6FA8DC;
+    height:130px;
+    margin-top: 15px;
+}
+
+
+.padding_zero
+{
+    padding-right: 0px;
+}
+
+.brand, .global_nav, .tools
+
+{
+    min-height: 70px ;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.hero_height
+{
+    min-height: 130px;
+}
+
+.hero_feature,.call_to_action
+{
+    min-height: 100px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.airtcle_height
+{
+    min-height: 460px;
+}
+
+.airtcle_feature, .airtcle_listing
+{
+    min-height: 430px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.sidebar-bg{
+    background: #9FC5F8;
+    min-height: 460px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.sidebar_feature
+{
+    background-color: #CFE2FB;
+    min-height: 430px;
+    width: 95%;
+}
+
+.sidebar_content
+{
+    min-height: 460px;
+    margin-top: 15px;
+}
+
+.footer_height
+{
+    min-height: 50px;
+    margin-bottom: 15px;
+}
+
+
